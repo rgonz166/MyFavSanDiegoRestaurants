@@ -1,0 +1,10 @@
+{
+  "name": "Favorite San Diego Restaurants",
+  "description": "A map of my favorite restaurants in San Diego, California. Utilizes the Google Maps API through HTML, CSS, and Javascript.",
+  "tags": [
+    "HTML",
+    "CSS",
+    "Javascript",
+    "API"
+  ]
+}
